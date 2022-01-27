@@ -3,10 +3,10 @@
 - 🔭 Atualmente como estágiario (FullStack)
 - 🌱 Estudando Vue.Js and React
 
-<div>
+<div align="center">
   <a href="https://github.com/Miguelpessoal">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Miguelpessoal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelpessoal&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelpessoal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpessoal&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
