@@ -1,7 +1,7 @@
 ### Olá, me chamo Miguel Antônio! 👋
 
 - 🔭 Atualmente como estágiario (FullStack)
-- 🌱 Estudando Nuxt.Js and React
+- 🌱 Estudando Kotlin e CleanCode
 
 <div align="center">
   <a href="https://github.com/Miguelpessoal">
