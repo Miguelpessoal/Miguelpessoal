@@ -1,7 +1,7 @@
 ### Olá, me chamo Miguel Antônio! 👋
 
 - 🔭 Atualmente como Desenvolvedor FullStack
-- 🌱 Estudando AWS e Nuxt.JS
+- 🌱 Estudando Nuxt.JS
 
 <div align="center">
   <a href="https://github.com/Miguelpessoal">
