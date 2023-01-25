@@ -1,7 +1,7 @@
 ### Olá, me chamo Miguel Antônio! 👋
 
-- 🔭 Atualmente como Desenvolvedor FullStack
-- 🌱 Estudando Node.JS e Laravel
+- 🔭 Desenvolvedor FullStack
+- 🌱 Stacks Atuais: Adonis e Laravel / React e Vue
 
 <div align="center">
   <a href="https://github.com/Miguelpessoal">
